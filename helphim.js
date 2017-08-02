@@ -20,6 +20,7 @@
 				return 0;
 			}
 		}
+		
 
 		var result = arguments.map(e=>{
 			var sum = 0, n=1, m=2;
