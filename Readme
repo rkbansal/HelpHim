@@ -1,5 +1,3 @@
 Open it through the console with test and cases as arguments like
 node helphim.js 3 1234 324521 124238991
 Here 3 is the no. of tests with three consecutive values i.e. 1234, 324521, 124238991
-I am checking it in visual code
-I am changed it
